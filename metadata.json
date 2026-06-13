@@ -1,0 +1,6 @@
+{
+  "name": "Document Editor",
+  "description": "A desktop-grade rich text editor inspired by Microsoft Word with a ribbon menu, A4-proportioned paper view, and real-time document statistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
